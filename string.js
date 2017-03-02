@@ -23,7 +23,7 @@
 		
 	  }
 	else  	
-	{ return "Not are letters, please try again".fontcolor("red");}
+	{ reversalTxt.innerHTML = "Not are letters, please try again".fontcolor("red");}
 
 }
 
